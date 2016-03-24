@@ -1,2 +1,2 @@
 # StartArduino
-# This is a test of a first commit
+# To Start jobs with a free board of prototipation need to download the API in www.arduino.cc search for download area.
